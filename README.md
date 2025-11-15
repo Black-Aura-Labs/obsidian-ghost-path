@@ -117,7 +117,8 @@ This plugin uses CodeMirror 6 ViewPlugin and Decorations to achieve the visual h
 ---
 
 ## Support
-
+Developed by [Fawzi Waly](https://github.com/fawziwaly)  
+Big Thank you to [Ahmed Shendy](https://github.com/devahmedshendy)  
 If you find this helpful please consider supporting us on ko-fi:
 
 [<img title="" src="https://i.postimg.cc/3RcBywKq/support-me-on-kofi-badge-blue.png" alt="ko-fi" width="221">](https://ko-fi.com/fawziwaly)
